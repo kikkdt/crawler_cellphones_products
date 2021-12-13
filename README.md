@@ -1,6 +1,6 @@
 # Crawl Cellphones Products
 
-This repository is used to crawl Laptop products on [Cellphones](https://cellphones.com.vn/).
+This repository is used to crawl Mobile products on [Cellphones](https://cellphones.com.vn/).
 
 # Installation
 
